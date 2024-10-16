@@ -1,4 +1,4 @@
-package com.gautam.splitz_m.entity;
+package com.gautam.splitz.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

@@ -1,13 +1,13 @@
-package com.gautam.splitz_m;
+package com.gautam.splitz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SplitzMApplication {
+public class SplitzApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SplitzMApplication.class, args);
+		SpringApplication.run(SplitzApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.gautam.splitz_m;
+package com.gautam.splitz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

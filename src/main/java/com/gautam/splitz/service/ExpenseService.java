@@ -1,6 +1,6 @@
-package com.gautam.splitz_m.service;
+package com.gautam.splitz.service;
 
-import com.gautam.splitz_m.entity.Expense;
+import com.gautam.splitz.entity.Expense;
 
 import java.util.List;
 

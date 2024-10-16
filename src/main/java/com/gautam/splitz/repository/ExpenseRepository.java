@@ -1,6 +1,6 @@
-package com.gautam.splitz_m.repository;
+package com.gautam.splitz.repository;
 
-import com.gautam.splitz_m.entity.Expense;
+import com.gautam.splitz.entity.Expense;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

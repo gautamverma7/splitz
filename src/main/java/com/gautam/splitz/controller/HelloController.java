@@ -1,4 +1,4 @@
-package com.gautam.splitz_m.controller;
+package com.gautam.splitz.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

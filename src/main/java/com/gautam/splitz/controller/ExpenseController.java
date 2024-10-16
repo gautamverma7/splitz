@@ -1,7 +1,7 @@
-package com.gautam.splitz_m.controller;
+package com.gautam.splitz.controller;
 
-import com.gautam.splitz_m.entity.Expense;
-import com.gautam.splitz_m.service.ExpenseService;
+import com.gautam.splitz.entity.Expense;
+import com.gautam.splitz.service.ExpenseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

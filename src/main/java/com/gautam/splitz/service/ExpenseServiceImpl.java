@@ -1,7 +1,7 @@
-package com.gautam.splitz_m.service;
+package com.gautam.splitz.service;
 
-import com.gautam.splitz_m.entity.Expense;
-import com.gautam.splitz_m.repository.ExpenseRepository;
+import com.gautam.splitz.entity.Expense;
+import com.gautam.splitz.repository.ExpenseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
